@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @bowen-she
+- 🌱 I’m currently learning 
+  - web development (*html/css, javscrpit, vue.js, flask/node.js, django*)
+  - machine learning
+  - psychology
+  - entrepreneurship
+- 💞️ I’m looking to collaborate on founding a new startup to provide great clinical mental consultance. 
+- During my leisure time, I enjoy <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/55233/person-bouncing-ball-emoji-clipart-md.png" width="35" height="35"> <img src="http://www.jorisdaniel.com/wp-content/uploads/2019/09/Dota_2_Logo.png" width="46" height="35">  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/mozilla/36/guitar_1f3b8.png" width="35" height="35">
+- 📫 contact - bowen.she.entrepreneur@gmail.com
