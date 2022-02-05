@@ -5,7 +5,7 @@
   - psychology
   - entrepreneurship
 - 💞️ I’m looking to collaborate on founding a new startup to provide great clinical mental consultance. 
-- During my leisure time, I enjoy playing :basketball: :video_game: :guitar:(the order reflects my skills)
+- During my leisure time, I enjoy playing :basketball: :video_game: :guitar:(the order reflects my skill level:wink:)
 - 📫 contact:
   - 📧 email: bowen.she.entrepreneur@gmail.com
   - 🐦 twitter: [@bowenshe_](https://twitter.com/bowenshe_)
