@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bowen-she
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Bo, currently working as a Senior ML engineer @twitter
+- 🌱 I’m recently learning 
   - web development (*html/css, javscrpit, vue.js, flask/node.js, django, three.js, WebGL*)
-  - machine learning
   - psychology
   - entrepreneurship
-- 💞️ I’m looking to collaborate on founding a new startup to provide great clinical mental consultance. 
+- 💞️ I’m looking to collaborate on founding a new startup to provide great clinical mental consultance but have no idea how to start it. 
 - During my leisure time, I enjoy playing :basketball: :video_game: :guitar:(the order reflects my skill level:wink:)
 - 📫 contact:
   - 📧 email: bowen.she.entrepreneur@gmail.com
